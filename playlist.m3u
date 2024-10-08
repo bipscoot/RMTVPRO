@@ -5,13 +5,13 @@
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",RCTI HD
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",RCTI Vision+
 https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="Indonesia Channels", RCTI+
+#EXTINF:-1  tvg-logo="https://img.okezone.com/content/2020/08/23/598/2266178/ulang-tahun-perdana-rcti-hadirkan-fitur-games-sxBh6HLEhB.JPG" group-title="Indonesia Channels", RCTI+
 https://allcutv.rctiplus.id/rcti2023.m3u8
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="Indonesia Channels", RCTI (R+)
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="Indonesia Channels", RCTI Digital
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
@@ -157,6 +157,11 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews
 https://cempedak-cdn-fly.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1 tvg-logo="https://img.okezone.com/content/2020/04/06/337/2194671/peristiwa-6-april-sindo-tv-resmi-berubah-menjadi-inews-tv-2dq6hAmC1A.png" group-title="Indonesia Channels", INEWS (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
