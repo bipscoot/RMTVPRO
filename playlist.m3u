@@ -966,13 +966,6 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 #EXTINF:-1 tvg-id="beIN SPORTS 4 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://iili.io/JhkQo22.png", beIN Sports 4
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 
-#EXTINF:-1 tvg-id="710.unifi" tvg-logo="https://iili.io/JhkQo22.png" group-title="Sports",beIN Sports 4 Malaysia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481
-https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
@@ -1658,35 +1651,35 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://iili.io/JhkQl2V.png" group-title="Test Channel",beIN Sports USA
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2fobCXq.jpeg", tvg-id="ksport1hd" group-title="Sports", TNT Sports 1
+#EXTINF:-1 tvg-logo="https://iili.io/JV1byLF.png", tvg-id="ksport1hd" group-title="Sports", TNT Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2fobCXq.jpeg", tvg-id="ksport1hd" group-title="Sports", TNT Sports 2
+#EXTINF:-1 tvg-logo="https://iili.io/JV1mJ1a.png", tvg-id="ksport1hd" group-title="Sports", TNT Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2fobCXq.jpeg", tvg-id="ksport1hd" group-title="Sports", TNT Sports 3
+#EXTINF:-1 tvg-logo="https://iili.io/JV1mdrJ.png", tvg-id="ksport1hd" group-title="Sports", TNT Sports 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2fobCXq.jpeg", tvg-id="ksport1hd" group-title="Sports", TNT Sports 4
+#EXTINF:-1 tvg-logo="https://iili.io/JV1m3dv.png", tvg-id="ksport1hd" group-title="Sports", TNT Sports 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2fobCXq.jpeg", tvg-id="ksport1hd" group-title="Sports", TNT Sports 5
+#EXTINF:-1 tvg-logo="https://iili.io/doCIvVt.png", tvg-id="ksport1hd" group-title="Sports", TNT Sports 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1714,7 +1707,7 @@ https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="Sports",SONY SPORTS TEN 1 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://iili.io/JbnBO3N.png" group-title="Sports",SONY SPORTS TEN 1 
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1722,7 +1715,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LJGok7x.png" group-title="Sports",SONY SPORTS TEN 2
+#EXTINF:-1 tvg-logo="https://iili.io/JbnBjGR.png" group-title="Sports",SONY SPORTS TEN 2
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1730,7 +1723,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWNbDTu.png" group-title="Sports",SONY SPORTS TEN 3
+#EXTINF:-1 tvg-logo="https://iili.io/JbnBhCv.png" group-title="Sports",SONY SPORTS TEN 3
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1738,7 +1731,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TqTashc.png" group-title="Sports",SONY SPORTS TEN 4
+#EXTINF:-1 tvg-logo="https://iili.io/JbnBeaI.png" group-title="Sports",SONY SPORTS TEN 4
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1746,7 +1739,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YEH5jdY.png" group-title="Sports",SONY SPORTS TEN 5
+#EXTINF:-1 tvg-logo="https://iili.io/JbnBSun.png" group-title="Sports",SONY SPORTS TEN 5
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
 
