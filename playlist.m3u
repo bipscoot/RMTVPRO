@@ -13,8 +13,8 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socce
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p3/132/2024/10/09/Uzbekistan-vs-Iran-AFC-Asian-Qualifiers-Road-to-26-Qatar-vs-Kirgizstan-1594733906.jpg" 
-group-title="Sports",[21:00 10-10-2024] Uzbekistan vs Iran - World Cup Qualifyinghttps://cempedak-cdn-fly.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p3/132/2024/10/09/Uzbekistan-vs-Iran-AFC-Asian-Qualifiers-Road-to-26-Qatar-vs-Kirgizstan-1594733906.jpg" group-title="Live Event",[21:00 10-10-2024] Uzbekistan vs Iran - World Cup Qualifying
+https://cempedak-cdn-fly.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 
 
