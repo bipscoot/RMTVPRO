@@ -16,6 +16,34 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socce
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p3/132/2024/10/09/Uzbekistan-vs-Iran-AFC-Asian-Qualifiers-Road-to-26-Qatar-vs-Kirgizstan-1594733906.jpg",group-title="Live Event",[21:00 10-10-2024] Uzbekistan vs Iran - World Cup Qualifying
 https://cempedak-cdn-fly.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
+#EXTINF:-1 tvg-id="Sportstars HD - [Channel 421].id" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/02/05/2785828364.jpg" group-title="Live Event",[21:00 10-10-2024] Yordania vs Korea Rep - World Cup Qualifying
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.idxsport.com/wp-content/uploads/2024/10/WORLD-CUP-QUALIFERS-QATAR-VS-KYRGYZSTAN-01.jpg",group-title="Live Event",[23:00 10-10-2024] Qatar vs Kyrgyzstan - World Cup Qualifying
+https://cempedak-cdn-fly.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 tvg-id="Sportstars HD - [Channel 421].id" tvg-logo="https://kinhtechungkhoan.vn/stores/news_dataimages/2024/102024/10/11/hhh-8120241010111019.jpg?rt=20241010111023" group-title="Live Event",[23:00 10-10-2024] Oman vs Kuwait - World Cup Qualifying
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:-1 group-title="Sports" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://cdn0-production-images-kly.akamaized.net/HGVGt2EPVHuSXS_WR2yjEcmojKc=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4942352/original/086770800_1726065469-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Bahrain_Vs_Timnas_Indonesia_copy.jpg",[23:00 10-10-2024] Bahrain vs Indonesia - World Cup Qualifying (A)
+https://cempedak-cdn-fly.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/HGVGt2EPVHuSXS_WR2yjEcmojKc=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4942352/original/086770800_1726065469-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Bahrain_Vs_Timnas_Indonesia_copy.jpg",[23:00 10-10-2024] Bahrain vs Indonesia - World Cup Qualifying (B)
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/287793
 
 
 <====================Indonesia Channels=====================>
